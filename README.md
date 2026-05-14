@@ -1,5 +1,7 @@
 # 💫 About Me:
-I’m a final-year Bachelor of Engineering (BE) student with a strong interest in software development, particularly using Java and Python. GRPM (Group Resource & Performance Manager) is my final-year project, where I applied my skills in backend logic, problem-solving, and application design to build a practical solution for efficient group management and performance tracking.<br><br>This project reflects my journey of learning, applying core programming concepts, and working with real-world use cases. I’m passionate about clean code, functional design, and building tools that solve real problems.<br><br>📚 Always learning | 💡 Always building | 🤝 Open to collaboration
+I’m a Bachelor of Engineering (BE) graduate with a strong passion for software development, particularly in Java and Python. My final-year project, GRPM (Group Resource & Performance Manager), reflects my ability to apply backend development, problem-solving, and application design skills to build a practical solution for efficient group management and performance tracking.
+
+Through this project, I gained hands-on experience in implementing core programming concepts, designing functional systems, and solving real-world challenges. I’m passionate about writing clean, maintainable code, building user-focused applications, and continuously expanding my technical expertise by working on meaningful projects.<br><br>📚 Always learning | 💡 Always building | 🤝 Open to collaboration
 
 
 ## 🌐 Socials:
